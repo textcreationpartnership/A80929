@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord General Cromwel from Dunbar; containing a true relation of the proceedings of the Parliament army under his command in Scotland; and the success God was pleased to give them against the Scots Army, in a battle at Dunbar the 3 of September. 1650. Together with a list of the Scotish officers then taken. Die Martis, 10. September. 1650. Ordered by the Parliament, that the Lord Generals letter, and the list of names herewith sent, be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80929</idno>
+            <idno type="STC">Wing C7097</idno>
+            <idno type="STC">Thomason E612_11</idno>
+            <idno type="STC">ESTC R206487</idno>
+            <idno type="EEBO-CITATION">99865639</idno>
+            <idno type="PROQUEST">99865639</idno>
+            <idno type="VID">117887</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117887)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E612[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord General Cromwel from Dunbar; containing a true relation of the proceedings of the Parliament army under his command in Scotland; and the success God was pleased to give them against the Scots Army, in a battle at Dunbar the 3 of September. 1650. Together with a list of the Scotish officers then taken. Die Martis, 10. September. 1650. Ordered by the Parliament, that the Lord Generals letter, and the list of names herewith sent, be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117887:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Lord General <hi>Cromwel</hi> FROM DUNBAR; CONTAINING A true Relation of the Proceedings OF THE Parliament Army Under his Command in <hi>SCOTLAND;</hi> And the Succeſs God was pleaſed to give them againſt the <hi>Scots</hi> Army, in a Battle at <hi>Dunbar</hi> the 3 of <hi>September.</hi> 1650.</p>
+            <p>Together with a LIST of the <hi>Scotiſh</hi> Officers then taken.</p>
+            <p>
+               <hi>Die Martis,</hi> 10. <hi>September.</hi> 1650.</p>
+            <p>ORdered by the Parliament, That the Lord Generals Letter, and the Liſt of names therewith ſent, be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <p>
+               <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>John Field,</hi> Printers to the Parliament of <hi>England.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117887:2"/>
+            <pb n="3" facs="tcp:117887:2"/>
+            <head>For the Honorable, <hi>William Lenthal</hi> Eſquire, Speaker of the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Hope it is not ill taken, that I make no more fre<g ref="char:EOLhyphen"/>quent Addreſſes to the Parliament; things that are of trouble in point of Proviſion for your Ar<g ref="char:EOLhyphen"/>my, and of ordinary direction, I have, as I could, often preſented to the Councel of State, together with ſuch Occurrences as have happened; who I am ſure, as they have not been wanting in their extraordi<g ref="char:EOLhyphen"/>nary care, and proviſion for us, ſo neither what they judge fit and neceſſary, to repreſent the ſame to you; and this I thought to be a ſufficient diſcharge or my duty on that behalf.</p>
+            <p>It hath now pleaſed God to beſtow a mercy upon you, worthy your knowledge, and of the utmoſt praiſe and thanks of all that fear and love his Name; yea, the Mercy is far above all praiſe, which, that you may the better perceive, I ſhall take the boldneſs to tender unto you ſome circumſtances accompanying this great Buſineſs, which will manifeſt the greatneſs and ſeaſonableneſs of this Mercy: We having tryed what we could to engage the enemy three or four miles Weſt of <hi>Edinburgh,</hi> that proving ineffectual, and our victual failing, we marched towards our Ships for a recruit of our want; the enemy did not at all trouble us in our Rear, but marched the direct way
+<pb n="4" facs="tcp:117887:3"/>towards <hi>Edinburgh,</hi> and partly in the night and morn<g ref="char:EOLhyphen"/>ing, ſlips through his whole Army, and Quarters him<g ref="char:EOLhyphen"/>ſelf in a poſture eaſie to interpoſe between us and our victual; but the Lord made him loſe the opportuni<g ref="char:EOLhyphen"/>ty, and the morning proving exceeding wet and dark, we recovered by that time it was light into a ground where they could not hinder us from our victual; which was a high act of the Lords Providence to us. We being come into the ſaid ground, the Enemy marched into the grounds we were laſt upon, having no minde either to ſtrive to interpoſe between us and our victual, or to fight, being indeed upon this lock, Hoping that the ſickneſs of your Army would render their work more eaſie by the gaining of time; where<g ref="char:EOLhyphen"/>upon we marched to <hi>Muſcleburgh</hi> to victual, and to ſhip away our ſick men, where we ſent aboard near Five hundred ſick and wounded Soldiers: And upon ſeri<g ref="char:EOLhyphen"/>ous conſideration, finding our weakneſs ſo to increaſe, and the Enemy lying upon his advantages; at a Ge<g ref="char:EOLhyphen"/>neral Councel it was thought fit to march to <hi>Dunbar,</hi> and there to fortifie the Town, which we thought, if any thing, would provoke them to engage; as alſo that the having of a Gariſon there, would furniſh us with accommodation for our ſick men, would be a place for a good Magazin (which we exceedingly wanted) being put to depend upon the uncertainty of weather for landing Proviſions, which many times cannot be done, though the Being of the whole Army lay upon it; all the Coaſts from <hi>Leith</hi> to <hi>Berwick</hi> not having one good Harbor, as alſo to lie more conveniently to re<g ref="char:EOLhyphen"/>ceive our recruits of Horſe and Foot from <hi>Berwick.</hi> Having theſe conſiderations, upon Saturday the thirti<g ref="char:EOLhyphen"/>eth
+<pb n="5" facs="tcp:117887:3"/>of <hi>Auguſt,</hi> we marched from <hi>Muſcleburgh</hi> to <hi>Hed<g ref="char:EOLhyphen"/>dington,</hi> where by that time we had got the Van-Brigade of our Horſe, &amp; our Foot and Train into their Quarters, the Enemy was marched with that exceed<g ref="char:EOLhyphen"/>ing expedition, that they fell upon the Rere-Forlorn of our Horſe, and put it in ſome diſorder; and in<g ref="char:EOLhyphen"/>deed, had like to have engaged our Rere-Brigade of Horſe with their whole Army, had not the Lord by his Providence: put a cloud over the Moon, thereby giving us opportunity to draw off thoſe Horſe to the reſt of the Army, which accordingly was done with<g ref="char:EOLhyphen"/>out any loſs, ſave of three or four of our aforemen<g ref="char:EOLhyphen"/>tioned Forlorn, wherein the Enemy (as we beleeve) received more loſs. The Army being put into a rea<g ref="char:EOLhyphen"/>ſonable ſecure poſture, towards midnight the Enemy attempted our Quarters on the Weſtend of <hi>Hedding<g ref="char:EOLhyphen"/>ton,</hi> but (through the goodneſs of God) we repulſed them. The next morning we drew into an open field, on the Southſide of <hi>Heddington,</hi> we not judging it ſafe for us to draw to the Enemy upon his own ground, he being prepoſſeſſed thereof, but rather drew back to give him way to come to us, if he had ſo thought fit. And having waited about the ſpace of four or five hours, to ſee if he would come to us; and not finding any inclination in the Enemy ſo to do, we reſolved to go according to our firſt intendment to <hi>Dunbar:</hi> By that time we had marched three or four miles, we ſaw ſome Bodies of the Enemies Horſe draw out of their Quarters; and by that time our Carriages were got<g ref="char:EOLhyphen"/>ten neer <hi>Dunbar,</hi> their whole Army was upon their march after us; and indeed, our drawing back in this maner, with the addition of three new Regiments
+<pb n="6" facs="tcp:117887:4"/>added to them, did much heighten their Confidence, if not Preſumption and Arrogancy. The Enemy that night, we perceived, gathered towards the Hills, labor<g ref="char:EOLhyphen"/>ing to make a perfect interpoſition between us and <hi>Berwick;</hi> and having in this poſture a great advantage, through his better knowledg of the Country, which he effected by ſending a conſiderable Party to the ſtrait Paſs at <hi>Copperſpeth,</hi> where ten men to hinder, are better then forty to make their way: And truly this was an exigent to us, wherewith the Enemy reproach<g ref="char:EOLhyphen"/>ed us with that condition the Parliaments Army was in, when it made its hard conditions with the King in <hi>Cornwal;</hi> by ſome Reports that have come to us, they had diſpoſed of us, and of their buſineſs, in ſufficient revenge and wrath towards our perſons, and had ſwal<g ref="char:EOLhyphen"/>lowed up the poor Intereſt of <hi>England,</hi> believing that their Army and their King would have marched to <hi>London</hi> without any interruption; it being told us, we know not how truly, by a priſoner we took the night before the fight, <hi>That their King was very ſuddenly to come amongſt them with thoſe Engliſh they allowed to be about him;</hi> but in what they were thus lifted up, the Lord was above them.</p>
+            <p>The Enemy lying in the poſture before mentioned, having thoſe advantages, we lay very neer him, being ſenſible of our diſadvantage, having ſome weakneſs of fleſh, but yet conſolation and ſupport from the Lord himſelf to our poor weak Faith, wherein I beleeve not a few amongſt us ſhared, That becauſe of their Num<g ref="char:EOLhyphen"/>bers, becauſe of their Advantages, becauſe of their Confidence, becauſe of our Weakneſs, becauſe of our Strait, we were in the Mount, and in the Mount the
+<pb n="7" facs="tcp:117887:4"/>Lord would be ſeen, and that he would finde out a way of Deliverance and Salvation for us; and indeed, we had our Conſolations and our Hopes. Upon Mon<g ref="char:EOLhyphen"/>day Evening the Enemy whoſe numbers were very great, as we hear about Six thouſand Horſe, and Six<g ref="char:EOLhyphen"/>teen thouſand Foot, at leaſt: Ours drawn down, as to ſound men, to about Seven thouſand five hundred Foot, and Three thouſand five hundred Horſe; the Enemy drew down to their Right Wing about two Thirds of their Left Wing of Horſe, to the Right Wing ſhogging alſo their Foot and Train much to the Right, cauſing their Right Wing of Horſe to edge down towards the Sea. We could not well imagine, but that the Enemy intended to attempt upon us, or to place themſelves in a more exact condition of inter<g ref="char:EOLhyphen"/>poſition: Major General and my ſelf coming to the Earl of <hi>Roxboroughs</hi> Houſe, and obſerving this po<g ref="char:EOLhyphen"/>ſture, I told him, I thought it did give us an oppor<g ref="char:EOLhyphen"/>tunity and advantage to attempt upon the Enemy; to which he immediately replyed, That he had thought to have ſaid the ſame thing to me; ſo that it pleaſed the Lord to ſet this apprehenſion upon both of our hearts at the ſame inſtant; we called for Colo<g ref="char:EOLhyphen"/>nel <hi>Monk,</hi> and ſhewed him the thing; and coming to our Quarter at night, and demonſtrating our appre<g ref="char:EOLhyphen"/>henſions to ſome of the Colonels, they alſo chearfully concurred; we reſolved therefore to put our buſineſs into this poſture, That ſix Regiments of Horſe, and three Regiments and an half of Foot, ſhould march in the Van, and that the Major General, the Lieute<g ref="char:EOLhyphen"/>nant General of the Horſe, and the Commiſſary Ge<g ref="char:EOLhyphen"/>neral and Colonel <hi>Monk,</hi> to command the Brigade
+<pb n="8" facs="tcp:117887:5"/>of Foot, ſhould lead on the buſineſs; And that Co<g ref="char:EOLhyphen"/>lonel <hi>Prides</hi> Brigade, Colonel <hi>Overtons</hi> Brigade, and the remaining two Regiments of Horſe, ſhould bring up the Canon and Rere; the time of falling on to be by break of day, but through ſome delays it proved not to be ſo till ſix a clock in the morning: The Ene<g ref="char:EOLhyphen"/>mies word was <hi>The Covenant,</hi> which it had been for divers days; ours <hi>(The Lord of Hoſts)</hi> The Major General, Lieutenant General <hi>Fleetwood,</hi> and Com<g ref="char:EOLhyphen"/>miſſary General <hi>Whaley,</hi> and Colonel <hi>Twiſletons,</hi> gave the Onſet, the Enemy being in very good poſture to receive them, having the advantage of their Canon and Foot againſt our Horſe; before our Foot could come up, the enemy made a gallant reſiſtance, and there was a very hot diſpute at ſwords point between our Horſe and theirs: Our firſt Foot, after they had diſ<g ref="char:EOLhyphen"/>charged their duty, being over-powered with the Ene<g ref="char:EOLhyphen"/>my, received ſome repulſe, which they ſoon recovered; but my own Regiment, under the Command of Lieu<g ref="char:EOLhyphen"/>tenant Colonel <hi>Goff,</hi> and my Major <hi>White,</hi> did come ſeaſonably in, and at the puſh of Pike did repel the ſtouteſt Regiment the Enemy had there, meerly with the courage the Lord was pleaſed to give, which proved a great amazement to the reſidue of their Foot: This being the firſt Action between the Foot, the Horſe in the mean time did with a great deal of cou<g ref="char:EOLhyphen"/>rage and ſpirit, beat back all oppoſition, charging through the Bodies of the Enemies Horſe and their Foot, who were after the firſt repulſe given, made by the Lord of Hoſts as ſtubble to their ſwords. Indeed, I believe I may ſpeak it without partiality, both your Chief Commanders, and others in their ſeveral places<g ref="char:punc">▪</g>
+               <pb n="9" facs="tcp:117887:5"/>and Soldiers alſo, were acted with as much courage, as ever hath been ſeen in any Action ſince this War: I know they look not to be named, and therefore I for<g ref="char:EOLhyphen"/>bear particulars. The beſt of the Enemies Horſe and Foot being broken through and through in leſs then an hours diſpute, their whole Army being put into confuſion, it became a total Rout, our men having the chaſe and execution of them near eight miles; we believe that upon the place and near about it, were a<g ref="char:EOLhyphen"/>bout Three thouſand ſlain, Priſoners taken or their Officers you have this encloſed Liſt; of private Soldi<g ref="char:EOLhyphen"/>ers near Ten thouſand, the whole Baggage and Train taken, wherein was good ſtore of Match, Powder and Bullet, all their Artillery great and ſmall, Thirty Guns; we are confident they have left behinde them not leſs then Fifteen thouſand Arms: I have already brought in to me near Two hundred Colours, which I herewith ſend you; what Officers of quality of theirs are killed, we yet cannot learn: But yet ſurely divers are, and many men of quality are mortally wounded, as Colonel <hi>Lumſdel,</hi> the Lord <hi>Liberton,</hi> and others; and that which is no ſmall addition, I do not believe we have loſt twenty men, not one Commiſſioned Officer ſlain that I hear of, ſave one Cornet, and Major <hi>Rooks<g ref="char:EOLhyphen"/>by</hi> ſince dead of his wounds, and not many mortally wounded, Colonel <hi>Whaley</hi> onely cut in the Hand-wriſt, and his Horſe twice ſhot and killed under him, but he well, recovered another Horſe, and went on in the Chaſe: Thus you have the proſpect of one of the moſt ſignal mercies God hath done for <hi>England</hi> and his People this War. And now may it pleaſe you to give me the leave of a few Words, It is eaſie to ſay, the
+<pb n="10" facs="tcp:117887:6"/>Lord hath done this, it would do you good to ſee and hear our poor Foot go up and down making their boaſt of God; but Sir, It is in your hands, and by theſe emi<g ref="char:EOLhyphen"/>nent mercies, God puts it more into your hands to give glory to him, to improve your Power and his Bleſſings to his praiſe; we that ſerve you, beg of you, not to own us, but God alone; we pray you own his people more and more, for they are the Chariots and Horſemen of <hi>Iſrael;</hi> diſown your ſelves, but own your Authority and improve it, to curb the proud and the inſolent, ſuch as would diſturb the tranquility of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> though under what ſpecious pretences ſoever; relieve the oppreſſed, hear the groans of poor Pri<g ref="char:EOLhyphen"/>ſoners in <hi>England:</hi> Be pleaſed to reform the abuſes of all Profeſſions, and if there be any one that makes many poor to make a few rich, that ſuits not a Com<g ref="char:EOLhyphen"/>monwealth. If he that ſtrengthens your Servants to Fight, pleaſes to give you hearts to ſet upon theſe things in order to his glory, and the glory of your Commonwealth, beſides the benefit <hi>England</hi> ſhall feel thereby, you ſhall ſhine forth to other Nations, who ſhall emulate the glory of ſuch a patern, and through the power of God turn into the like. Theſe are our de<g ref="char:EOLhyphen"/>ſires, and that you may have liberty and opportunity to do theſe things and not be hindred, we have been and ſhall be (by Gods aſſiſtance) willing to venture our lives, and not deſire you ſhould be precipitated by im<g ref="char:EOLhyphen"/>portunities from your care of Safety and Preſervati<g ref="char:EOLhyphen"/>on; but that the doing of theſe good things may have their place amongſt thoſe which concern well be<g ref="char:EOLhyphen"/>ing, and ſo be wrought in their time and order. Since we came in <hi>Scotland,</hi> it hath been our deſire and long<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:117887:6"/>to have avoided blood in this buſineſs, by reaſon that God hath a people here fearing his Name, though deceived; and to that end have we offered much love unto ſuch in the bowels of Chriſt; and concerning the truth of our hearts therein, have we appealed unto the Lord. The Miniſters of <hi>Scotland</hi> have hindred the Paſſage of theſe things to the hearts of thoſe to whom we intended them; and now we hear, that not onely the deceived people, but ſome of the Miniſters are alſo fallen in this Battel. This is the great hand of the Lord, and worthy of the conſideration of all thoſe, who taking into their hands the Inſtruments of a fooliſh Shepherd, to wit, medling with worldly policies, and mixtures of earthly power, to ſet up that which they call the Kingdom of Chriſt, which is neither it, nor if it were it, would ſuch means be found effectual to that end, and neglect, or truſt not to the Word of God, the Sword of the Spirit, which is alone powerful and able for the ſetting up of that Kingdom, and when truſted to, will be found effectually able to that end, &amp; wil alſo do it. This is humbly offred for their ſakes, who having lately too much turned aſide, that they might return again to Preach Jeſus Chriſt, according to the ſimplicity of the Goſpel, and then no doubt they will diſcern and finde your protection and encouragement, beſeeching you to pardon this length, I humbly take leave, and reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your moſt humble Servant, <hi>O. CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dunbar,</hi> 
+                  <date>
+                     <hi>Septembr.</hi> 4. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="12" facs="tcp:117887:7"/>
+            <head>A Liſt of ſuch Priſoners taken at the Fight.</head>
+            <list>
+               <item>SIr James Lomſden</item>
+               <item>Lieut. Gen. of Foot.</item>
+            </list>
+            <list>
+               <head>Colonels.</head>
+               <item>Col: Sir Will: Douglas</item>
+               <item>Col: Will: Lomſden.</item>
+               <item>Colonel Gurdon.</item>
+            </list>
+            <list>
+               <head>Lieutenant Colonels.</head>
+               <item>Lieut: Col. Wallis.</item>
+               <item>Lieut: Col. Leſley.</item>
+               <item>Lieut: Col. Murray.</item>
+               <item>Lieut: Colonel Henry Malvin.</item>
+               <item>L: Col. Arthur Forbis.</item>
+               <item>Lieut: Colonel Francis Wanhap, of Horſe.</item>
+               <item>Lieut: Col. Dunbarre.</item>
+               <item>Lieut: Col. Hamilton.</item>
+               <item>Lieut: Col. Crawford.</item>
+               <item>Lieu: Col: Ingles.</item>
+               <item>Lieut: Colonel John Montgomery.</item>
+               <item>James Bickerton Ad<g ref="char:EOLhyphen"/>jutant Gen. of Horſe.</item>
+            </list>
+            <list>
+               <head>Majors.</head>
+               <item>Henry Carmihil, of Foot.</item>
+               <item>James Granſter, of Horſe.</item>
+               <item>George Moat, of Foot.</item>
+               <item>Will: Scringer, of Foot.</item>
+               <item>Jo: Steward, of Foot.</item>
+               <item>George Forbes, Refor<g ref="char:EOLhyphen"/>mado.</item>
+               <item>Moor.</item>
+               <item>Oagle.</item>
+               <item>Freeſle.</item>
+            </list>
+            <list>
+               <head>Captains of Foot:</head>
+               <item>James Sterlyn.</item>
+               <item>Francis Agnue.</item>
+               <item>Sibbald.</item>
+               <item>Alex. Monpreff</item>
+               <item>George Holliburton</item>
+               <item>Tho: Brown</item>
+               <item>William Murray</item>
+               <item>James Scot</item>
+               <item>William Rudderford</item>
+            </list>
+            <list>
+               <pb n="13" facs="tcp:117887:7"/>
+               <head>Captains of Foot.</head>
+               <item>James Macularoy</item>
+               <item>Hugh Montgomery</item>
+               <item>James Aken</item>
+               <item>George Smith</item>
+               <item>John Macclellan</item>
+               <item>Robert Mackellum</item>
+               <item>Hugh Madole</item>
+               <item>George Pringle</item>
+               <item>Robert Scot</item>
+               <item>Alexander Wood</item>
+               <item>Robert Hamilton</item>
+               <item>Tho: Gray</item>
+               <item>Robert Adamſon</item>
+               <item>Beton.</item>
+            </list>
+            <list>
+               <head>Captains of Horſe and Foot.</head>
+               <item>Robert Duncan</item>
+               <item>Robert Maccaulla</item>
+               <item>Walter Scot</item>
+               <item>Matthew Creſhton</item>
+               <item>James Steward</item>
+               <item>William Douglas</item>
+               <item>Walter Leſley</item>
+               <item>Wil: Manhop, of Horſe</item>
+               <item>James Borthick</item>
+               <item>David Murray</item>
+            </list>
+            <list>
+               <head>Captains of Horſe.</head>
+               <item>John Murray</item>
+               <item>William Burton</item>
+               <item>James Camil</item>
+               <item>William Bresbon, of Horſe.</item>
+               <item>William Daurlmple</item>
+               <item>Charls Kerkpatrick.</item>
+               <item>Nicholas Lawſon.</item>
+               <item>Robert Rudderford</item>
+               <item>John Car</item>
+               <item>Dundaſs</item>
+               <item>Ogleby</item>
+               <item>Gourdon</item>
+               <item>Bonner.</item>
+               <item>Lieut: Bruſe, Lieute<g ref="char:EOLhyphen"/>nant of Horſe.</item>
+            </list>
+            <list>
+               <head>Cornets of Horſe.</head>
+               <item>William Cunningham</item>
+               <item>James Maxwel</item>
+               <item>James Denham</item>
+               <item>James Magil</item>
+               <item>Walter Steward</item>
+               <item>John Hay</item>
+               <item>Anthony Macdoer</item>
+               <item>John Brown</item>
+            </list>
+            <list>
+               <pb n="14" facs="tcp:117887:8"/>
+               <head>Cornets of Horſe.</head>
+               <item>Alex. Michil</item>
+               <item>John Collerwood</item>
+               <item>George Winderum.</item>
+            </list>
+            <list>
+               <head>Captains Lieut: of Horſe and Foot.</head>
+               <item>John Monnergain</item>
+               <item>William Emery</item>
+               <item>William Blayer</item>
+               <item>Robert Anderſon</item>
+               <item>Roger Holden</item>
+               <item>Robert Wood</item>
+            </list>
+            <list>
+               <head>Lieutenants of Foot.</head>
+               <item>James Cunningham</item>
+               <item>James Blackwood</item>
+               <item>Patrick Macknab</item>
+               <item>Henry Cunningham</item>
+               <item>Lancelot Car</item>
+               <item>John Macknight</item>
+               <item>John Heume</item>
+               <item>John Gourdon</item>
+               <item>George Cunningham</item>
+               <item>James Weare</item>
+               <item>Henry Eſton</item>
+               <item>William Gun</item>
+               <item>Nicholas Coſton</item>
+            </list>
+            <list>
+               <head>Lieut: of Foot.</head>
+               <item>Alexander Steward</item>
+               <item>Arthur Steward</item>
+               <item>William Petre</item>
+               <item>Norman Leſley</item>
+               <item>William Bailey</item>
+               <item>William Gladſton</item>
+               <item>Robert Hamberton</item>
+               <item>Geo: Mackburney</item>
+               <item>Robert Straughan</item>
+               <item>Richard Allen</item>
+               <item>James Mackbey</item>
+               <item>George Biſſet</item>
+               <item>James Nichols</item>
+               <item>Thomas Mennis</item>
+               <item>William Sinnis</item>
+               <item>John Car</item>
+               <item>Alexander Car</item>
+               <item>James Twede</item>
+               <item>Philip Leich</item>
+               <item>James Armer</item>
+               <item>James Sayers</item>
+               <item>John Meer</item>
+               <item>Andrew Pennere</item>
+               <item>Patrick Baily</item>
+               <item>John Camil</item>
+            </list>
+            <list>
+               <pb n="15" facs="tcp:117887:8"/>
+               <head>Lieut: of Foot.</head>
+               <item>John Rich</item>
+               <item>John Steward</item>
+               <item>John Camil</item>
+               <item>Allen Osborn</item>
+               <item>William Knocks</item>
+               <item>John Wilſon</item>
+               <item>Thomas Anderſon</item>
+               <item>Walter Wanhap</item>
+               <item>Patrick Holliburton</item>
+               <item>Lancelot Car</item>
+               <item>William Engley</item>
+               <item>Thomas Car</item>
+               <item>Alexander Gourdon</item>
+               <item>Andrew Haily</item>
+               <item>Samuel Gourdon</item>
+               <item>Lancaſter Forguſon</item>
+               <item>Robert Rankin</item>
+               <item>Cha: Coleman</item>
+               <item>John Lewſon</item>
+               <item>Andrew Guiler</item>
+               <item>George Patterſon</item>
+               <item>Thomas Hutchen</item>
+               <item>John Ennis</item>
+               <item>John Sken</item>
+               <item>John Hunter</item>
+            </list>
+            <list>
+               <head>Lieut: of Foot.</head>
+               <item>John Mackdoughal</item>
+               <item>Andrew Drumon</item>
+               <item>George Leſley</item>
+               <item>George Moat</item>
+               <item>Francis Scot</item>
+               <item>William Elliot</item>
+               <item>Alexander Ciff</item>
+               <item>John Denguit.</item>
+            </list>
+            <list>
+               <head>Quartermaſters of Horſe.</head>
+               <item>Tho: Richman.</item>
+               <item>William Forbis.</item>
+            </list>
+            <list>
+               <head>Enſigns.</head>
+               <item>Kilpatrick</item>
+               <item>Walter Macdoughel</item>
+               <item>William Sinclare</item>
+               <item>George Jack</item>
+               <item>Hartley Gadley</item>
+               <item>William Carnecuſe</item>
+               <item>Thomas Wallis</item>
+               <item>James Rolſton</item>
+               <item>Andrew Myn</item>
+               <item>James Bennet</item>
+               <item>John Linſey</item>
+               <item>Andrew Hanna</item>
+               <item>Thomas Pringle</item>
+               <item>
+                  <pb n="16" facs="tcp:117887:9"/>Robert Hamilton</item>
+               <item>James Delop</item>
+               <item>John Gray</item>
+               <item>James Edward</item>
+               <item>Collin Camel Heatly</item>
+               <item>Robert Roy. Gilbert Harral</item>
+               <item>James Musket</item>
+               <item>William Sample</item>
+               <item>Robert Ogleby</item>
+               <item>Robert Williamſon</item>
+               <item>William Leſley</item>
+               <item>Ersby Shields</item>
+               <item>Robert Haborn</item>
+               <item>William Scot</item>
+               <item>Ja: Edminſton</item>
+               <item>Robert Lawſon</item>
+               <item>James Neicen</item>
+               <item>Andrew Barthick</item>
+               <item>George Elphenſtou</item>
+               <item>John Fairdiſe</item>
+               <item>Henry White</item>
+               <item>Andrew Dunalſon</item>
+               <item>David Camide</item>
+               <item>John Camil</item>
+               <item>Cornelius Engles</item>
+               <item>Duncan Camil</item>
+               <item>Patrick Canburn</item>
+               <item>William Mannord</item>
+               <item>Robert Craw</item>
+               <item>George Calley</item>
+               <item>James Rudderford</item>
+               <item>Walter Scot</item>
+               <item>Walter Steward</item>
+               <item>Robert Heume</item>
+               <item>James Forquer</item>
+               <item>James Macknath</item>
+               <item>Henry Ackman</item>
+               <item>John Wayer</item>
+               <item>John Brown</item>
+               <item>William Chapman</item>
+               <item>John Macuo</item>
+               <item>Alexander Spence</item>
+               <item>John Black</item>
+               <item>Thomas Thompſon</item>
+               <item>Robert Fryer</item>
+               <item>John Tompſon</item>
+               <item>John Dixon</item>
+               <item>George Smith</item>
+               <item>Alexander Johnſton</item>
+               <item>William Egger</item>
+               <item>David Grant</item>
+               <item>George Gayler</item>
+               <item>John Wallis</item>
+               <item>John Kemmen</item>
+               <item>Thomas Enderſon</item>
+               <item>James Brewſe</item>
+               <item>William Maclan</item>
+               <item>John Carmihil</item>
+               <item>William Watſon</item>
+               <item>William Anderſon</item>
+               <item>James Dunbar</item>
+               <item>James Elderwood</item>
+               <item>Henry Roy</item>
+               <item>Thomas Boyd.</item>
+               <item>David Reed.</item>
+            </list>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:117887:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
